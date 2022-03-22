@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @ShamyakGoel
 - 👀 I’m interested in ...
+- Coding
 - 🌱 I’m currently learning ...
+- I am learning many programming languages like python,java,c,c++,c#. Please support me
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I am leraning many programming languages like python,java,c,c++,c#. Please support me
+- visit http://codewithshamyak.epizy.com or https://shamyakgoel.github.io/Codewithshamyak
+
 <!---
 ShamyakGoel/ShamyakGoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
