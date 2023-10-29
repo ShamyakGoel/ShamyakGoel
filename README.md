@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @ShamyakGoel
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning many programming languages like python,java,c,c++,c#. Please support me
-- 📫 How to reach me visit https://shamyakgoel.github.io/Codewithshamyak
+# 💫 About Me:
+- 👋 Hi, I’m @ShamyakGoel<br>- 👀 I’m interested in ...<br>- Coding<br>- 🌱 I’m currently learning ...<br>- I am learning many programming languages like python,java,c,c++,c#. Please support me<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...<br>- visit https://shamyakgoel.github.io/Codewithshamyak<br><br>
 
-<!---
-ShamyakGoel/ShamyakGoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShamyakGoel&theme=city_light&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShamyakGoel&theme=city_light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamyakGoel&theme=city_light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ShamyakGoel&icon=0&color=0)](https://visitcount.itsvg.in)
+
