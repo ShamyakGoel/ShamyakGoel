@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ShamyakGoel<br>- 👀 I’m interested in ...<br>- Coding<br>- 🌱 I’m currently learning ...<br>- I am learning many programming languages like python,java,c,c++,c#. Please support me<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...<br>- visit https://shamyakgoel.github.io/Codewithshamyak<br><br>
+- 👋 Hi, I’m @ShamyakGoel<br>- 👀 I’m interested in Coding<br>- 🌱 I am learning many programming languages like python,java,c,c++,c#. Please support me<br>- 📫 Reach me by visiting https://shamyakgoel.github.io/Codewithshamyak<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShamyakGoel&theme=city_light&hide_border=true&include_all_commits=true&count_private=false)<br/>
