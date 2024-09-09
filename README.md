@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ShamyakGoel<br>- 👀 I’m interested in Coding<br>- 🌱 I am learning many programming languages like python,java,c,c++,c#. Please support me<br>- 📫 Reach me by visiting https://shamyakgoel.github.io/Codewithshamyak<br><br>
+- 👋 Hi, I’m @ShamyakGoel, Owner of bangexams.me<br>- 👀 I’m interested in Coding<br>- 🌱 Specialised in backend development and web stack. <br>- 📫 Reach me by visitinght https://bangexams.me<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShamyakGoel&theme=city_light&hide_border=true&include_all_commits=true&count_private=false)<br/>
